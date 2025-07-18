@@ -211,3 +211,35 @@ main {
 .experience h1 {
     font-size: 65px;
 }
+
+.someFacts-container {
+    padding: 100px 50px;
+}
+
+.someFacts-title {
+    padding-bottom: 50px;
+    width: 450px;
+}
+
+.someFacts-title h1 {
+    color: #131313;
+    font-family: "Work Sans";
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.someFacts-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.someFacts-card {
+    text-align: center;
+    border: 1px solid #FF900E;
+    padding: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
