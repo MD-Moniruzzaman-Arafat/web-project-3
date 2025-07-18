@@ -243,3 +243,32 @@ main {
     width: 200px;
     border-radius: 5px;
 }
+
+.sponsors-container {
+    padding: 100px 50px;
+}
+
+.sponsors-title {
+    text-align: center;
+}
+
+.sponsors-title h1 {
+    color: #131313;
+    font-family: "Work Sans";
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.sponsors-title p {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.sponsors {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
